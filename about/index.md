@@ -10,8 +10,7 @@ comments: false
 
 ## About the Podcast
 <i>Two queer, trans, and polyamorous folks share how they have built their relationship over time, and how you can build yours, too.</i>
-Queerly Yours is a podcast about the tender, complicated, and fascinating ways that people create and maintain their relationships with partners, friends, and family. Co-hosts Angela and Naomi discuss their own relationship histories and experiences, as well as drawing on perspectives, questions, and topic suggestions from their audience. You can submit your own questions and topic suggestions to the show's twitter
-<a href="https://twitter.com/queerlyyourspod">twitter</a>, or by emailing the hosts at <a href="queerlyyours@protonmail.com">queerlyyours@protonmail.com</a>.
+Queerly Yours is a podcast about the tender, complicated, and fascinating ways that people create and maintain their relationships with partners, friends, and family. Co-hosts Angela and Naomi discuss their own relationship histories and experiences, as well as drawing on perspectives, questions, and topic suggestions from their audience. You can submit your own questions and topic suggestions to the show's <a href="https://twitter.com/queerlyyourspod">twitter</a>, or by emailing the hosts at <queerlyyours@protonmail.com>.
 
 ## Meet the Co-Hosts
 
