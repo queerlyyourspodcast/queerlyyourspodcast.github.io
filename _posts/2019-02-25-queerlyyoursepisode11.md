@@ -6,6 +6,7 @@ excerpt: “In a special episode format, hosts Angela and Naomi posed a question
 tags: [podcast, episode11]
 comments: true
 ---
+<iframe src="https://anchor.fm/queerly-yours/embed/episodes/11--Community-Forum---Advice-to-our-Teenage-Selves-e3a55f" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 In a special episode format, hosts Angela and Naomi posed a question to the Internet - what relationship advice do you wish you could give your teenage self? Join them as they sort through and reflect on a range of sweet, tender, funny, and intense answers that all of us can learn from. 
 
