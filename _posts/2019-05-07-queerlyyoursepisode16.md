@@ -6,6 +6,7 @@ excerpt: “Naomi and Angela are moving in together soon! To celebrate, they ref
 tags: [podcast, episode16]
 comments: true
 ---
+<iframe src="https://anchor.fm/queerly-yours/embed/episodes/16--Roommate-Dynamics-e3vd8a" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 Naomi and Angela are moving in together soon! To celebrate, they reflect on past shared living experiences (with each other and others) and discuss the key themes they've found helpful for fostering comfortable, communicative roommate dynamics.
 
