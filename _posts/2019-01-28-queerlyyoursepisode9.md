@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "9. RPGS and Relationships"
-date: 2018-11-05
+date: 2019-01-28
 excerpt: "The hosts journey into topics like game group dynamics, consent in nonsexual social situations, the role(s) of RPGs in queer and trans community building, and games as relationship metaphors."
 tags: [podcast, episode9]
 comments: true
