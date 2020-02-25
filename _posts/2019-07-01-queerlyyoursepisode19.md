@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "18. Being Bisexual"
+title: "19. Being Bisexual"
 date: 2019-07-01
 excerpt: "Angela and Naomi discuss what bisexuality means to them personally as well as the ways that the term operates socially and culturally in their broader communities."
 tags: [podcast, episode19]
